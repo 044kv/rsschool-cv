@@ -19,3 +19,7 @@ Currently, I am working in the position of Director of the Latvian office of the
 
 **In progress**
 - RS Schools Course «JavaScript/Front-end. Stage 0»
+## Languages
+- English - C1 ADVANCED to C2 PROFICIENT according to [CEFR](https://www.efset.org/quick-check/) test
+- Ukrainian - native
+- Russian - native
