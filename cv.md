@@ -13,3 +13,8 @@ Currently, I am working in the position of Director of the Latvian office of the
 - Git, GitHub
 - Figma
 - VS Code
+## Courses
+**Completed**
+- [Code Basics](https://ru.code-basics.com) HTML5 and CSS Courses
+**In progress**
+- RS Schools Course «JavaScript/Front-end. Stage 0»
